@@ -1,0 +1,31 @@
+body {
+    background-color: white;
+}
+.BUTTON_HUT {
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+color: black;
+font-family:Impact, 'Arial Narrow Bold', sans-serif;
+font-size: 1.2rem;
+font-weight: 100 ;
+padding: 8px 12px;
+padding-top: 10px;
+background-color:#00a2e8;
+box-shadow: 0px 1px 8px 0px black;
+-webkit-box-shadow: 0px 1px 8px 0px black;
+-moz-box-shadow: 0px 1px 8px 0px black;
+text-decoration: none;
+display: inline-block;
+cursor: pointer;
+text-align: center;
+}
+
+.BUTTON_HUT:hover {
+background: #AD9274;
+color: #8D182E;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+text-decoration: none;
+}
